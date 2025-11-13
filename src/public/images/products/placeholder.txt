@@ -1,0 +1,13 @@
+# Imágenes de Productos
+
+Coloca aquí las imágenes de los productos de Marvin Cosmetic.
+
+Estructura recomendada:
+- producto1.jpg
+- producto2.jpg
+- etc.
+
+Formatos recomendados:
+- JPG o PNG
+- Tamaño recomendado: 800x800px
+- Fondo preferiblemente blanco o transparente

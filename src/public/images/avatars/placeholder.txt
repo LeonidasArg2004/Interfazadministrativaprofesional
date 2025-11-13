@@ -1,0 +1,13 @@
+# Avatares de Usuario
+
+Coloca aquí las imágenes de avatares y fotos de perfil.
+
+Estructura recomendada:
+- admin-avatar.jpg
+- user-default.png
+- etc.
+
+Formatos recomendados:
+- JPG o PNG
+- Tamaño recomendado: 256x256px
+- Formato cuadrado

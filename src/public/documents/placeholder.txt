@@ -1,0 +1,16 @@
+# Documentos y Archivos
+
+Coloca aquí los documentos, PDFs y otros archivos del sistema.
+
+Tipos de archivos:
+- Reportes en PDF
+- Facturas
+- Documentos administrativos
+- Manuales de usuario
+- etc.
+
+Formatos permitidos:
+- PDF
+- DOCX
+- XLSX
+- etc.

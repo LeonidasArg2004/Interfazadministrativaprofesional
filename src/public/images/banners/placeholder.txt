@@ -1,0 +1,13 @@
+# Banners e Imágenes Promocionales
+
+Coloca aquí las imágenes de banners, promociones y marketing.
+
+Estructura recomendada:
+- banner-principal.jpg
+- promocion-1.jpg
+- etc.
+
+Formatos recomendados:
+- JPG o PNG
+- Tamaño recomendado: 1920x600px para banners horizontales
+- Tamaño recomendado: 600x800px para banners verticales

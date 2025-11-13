@@ -1,0 +1,12 @@
+# Logo de Marvin Cosmetic
+
+Coloca aquí el logo de la empresa en los siguientes formatos:
+- logo.png (logo principal)
+- logo-icon.png (solo el icono/símbolo)
+- logo-white.png (versión en blanco para fondos oscuros)
+
+Formatos recomendados:
+- PNG con fondo transparente
+- SVG para mejor escalabilidad
+- Tamaño recomendado: 512x512px para el logo completo
+- Tamaño recomendado: 256x256px para el icono

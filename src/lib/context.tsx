@@ -159,6 +159,7 @@ export const AppProvider: React.FC<{ children: React.ReactNode }> = ({ children 
 
   const login = (email: string, password: string): boolean => {
     // Mock authentication - only admin can login
+
     if (email === 'admin@empresa.com' && password === 'admin123') {
       setUser({
         id: '1',
@@ -203,7 +204,7 @@ export const AppProvider: React.FC<{ children: React.ReactNode }> = ({ children 
       id: Date.now().toString(),
     };
     setSales(prev => [newSale, ...prev]);
-    
+
     // Update product stock
     const product = products.find(p => p.id === sale.productId);
     if (product) {
